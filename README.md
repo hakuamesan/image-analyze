@@ -5,6 +5,3 @@ Supported file types are:
  JPEG, GIF, PNG, Webp, TIFF, BMP
 
 Doesn't always detect the format correctly.
-
-
-Dummy edit.
